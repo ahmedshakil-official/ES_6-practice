@@ -1,9 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47f6f55e-62a6-434c-8382-6e8261896878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrow function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class&amp;constructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function default parameter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spread operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template String.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/let-const.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yc5fhqdH1CPYOSfLTPx8ZbW5yv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.Spread operator.js">
+    <configuration name="Arrow function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Arrow function.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Function default parameter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Function default parameter.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Spread operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Spread operator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Template String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Template String.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="let-const.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/let-const.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Spread operator.js" />
+        <item itemvalue="Node.js.Arrow function.js" />
+        <item itemvalue="Node.js.Template String.js" />
+        <item itemvalue="Node.js.Function default parameter.js" />
+        <item itemvalue="Node.js.let-const.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47f6f55e-62a6-434c-8382-6e8261896878" name="Default Changelist" comment="" />
+      <created>1583229146539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583229146539</updated>
+      <workItem from="1583229147749" duration="4841000" />
+      <workItem from="1583237704034" duration="2102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1882" height="279" key="GridCell.Tab.0.bottom" timestamp="1583238667258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583238667258" />
+    <state width="1882" height="279" key="GridCell.Tab.0.center" timestamp="1583238667258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583238667258" />
+    <state width="1882" height="279" key="GridCell.Tab.0.left" timestamp="1583238667258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583238667258" />
+    <state width="1882" height="279" key="GridCell.Tab.0.right" timestamp="1583238667258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583238667258" />
+    <state width="1882" height="344" key="GridCell.Tab.1.bottom" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.1.center" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.1.left" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.1.right" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.2.bottom" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.2.center" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.2.left" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.2.right" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.3.bottom" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.3.center" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.3.left" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
+    <state width="1882" height="344" key="GridCell.Tab.3.right" timestamp="1583235369030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="344" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583235369030" />
   </component>
 </project>
